@@ -1,2 +1,4 @@
-# Generative AI tools for Code Generation
-A playground project to keep code generation experiements done using generative AI tools like Github Copilot and ChatGPT.
+# Generative AI tools for Coding
+
+A playground project to keep code generation experiments done by using generative AI tools like Github Copilot and
+ChatGPT.

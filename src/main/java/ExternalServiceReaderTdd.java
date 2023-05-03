@@ -19,5 +19,4 @@ public class ExternalServiceReaderTdd {
 
         return httpClient.send(request, BodyHandlers.ofByteArray()).body();
     }
-
 }
